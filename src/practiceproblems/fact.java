@@ -1,4 +1,4 @@
-package src.jan5;
+package src.practiceproblems;
 import java.util.Scanner;
 public class fact {
     public static void main(String[] args) {
