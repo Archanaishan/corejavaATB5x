@@ -12,5 +12,6 @@ public class homwor {
        ans1= Math.pow(x,2)+Math.pow(y,2)-Math.abs(z);
        ans=Math.cbrt(ans1);
         System.out.println(ans);
+        sc.close();//we must close the scanner class at the end
     }
 }
