@@ -1,4 +1,4 @@
-package src.jan5;
+package src.practiceproblems;
 
 public class table {
     public static void main(String[] args) {

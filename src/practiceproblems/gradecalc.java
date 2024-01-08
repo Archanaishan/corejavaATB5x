@@ -1,4 +1,4 @@
-package src.jan4;
+package src.practiceproblems;
 
 import java.util.Scanner;
 
