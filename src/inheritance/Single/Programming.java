@@ -1,4 +1,4 @@
-package src.inheritance;
+package src.inheritance.Single;
 
 public class Programming {
     String version;
